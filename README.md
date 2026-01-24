@@ -11,7 +11,7 @@
 
 - 📖 Getting hands-on with tools like **Burp Suite, Wireshark, Metasploit**
 
-- 📫 You can reach me at **abhinavkm30@gmail.com**
+- 📫 You can reach me at **kabhi12nav@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
