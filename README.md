@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhinav Kumar</h1>
+<h1 align="center">Hi 👋, I'm Abhinav</h1>
 <h3 align="center">I’m learning how systems, networks, and attacks actually work</h3>
 
 - 🛡️ Currently focused on **cybersecurity fundamentals, especially understanding how attacks happen and how they’re detected**
