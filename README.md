@@ -48,3 +48,18 @@ root@abhinav:~$ ./display_skills.sh
 [+] STATUS:
     > Open for CTF Teams: [TRUE]
     > Learning Mode:      [ACTIVE]
+</td>
+</tr> </table>
+
+<div align="center"> <h3>🛠️ WEAPONRY & TOOLS</h3>
+
+<a href="https://www.google.com/search?q=https://skillicons.dev"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dkali,linux,python,bash,java,mysql,git,docker,wireshark%26perline%3D10" /> </a>
+
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Project-Packet_Sniffer-blue%3Fstyle%3Dflat-square%26logo%3Dpython" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Project-Home_Lab_Setup-orange%3Fstyle%3Dflat-square%26logo%3Dlinux" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Project-CTF_Writeups-green%3Fstyle%3Dflat-square%26logo%3Dhackthebox" /> </div>
+
+<div align="center"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%2520Bag.png" alt="Money Bag" width="25" height="25" />
+
+
+<a href="https://www.google.com/search?q=https://www.buymeacoffee.com/YOUR_BMC_USERNAME"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00%3Fstyle%3Dfor-the-badge%26logo%3Dbuy-me-a-coffee%26logoColor%3Dblack" /> </a> </div>
