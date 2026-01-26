@@ -1,65 +1,62 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/QLxP45aC5B8mFwQ5iS/giphy.gif" width="100%" height="150" style="object-fit:cover" />
-  
-  <h1 style="font-size: 30px;">🛡️ SYSTEM: ONLINE // USER: ABHINAV 🛡️</h1>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=435&lines=Initialising+Security+Protocols...;Target:+Network+Security+%26+SOC;Status:+Ready+to+Collaborate." alt="Typing SVG" />
-  </a>
-</div>
+# 🛡️ Abhinav Kumar
+### Cybersecurity Aspirant | Network Security | SOC
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Analyzing+Network+Traffic;Explaining+System+Vulnerabilities;Learning+Blue+Team+Operations" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<p align="center">
+ 🔭 Focused on <b>SOC Operations & Network Defense</b> <br/>
+ 🤝 Open to <b>CTF collaborations</b> and security research <br/>
+ 🧪 Lab enthusiast constantly breaking & fixing <b>Linux VMs</b>
+</p>
 
 ---
 
-<table>
-  <tr>
-    <td width="35%" align="center" valign="top">
-      <h3>👤 OPERATOR ID</h3>
-      <br/>
-      <img src="https://github.com/Abhinav-Kumar-00.png" width="150" style="border-radius: 50%; border: 2px solid #00FF00;" alt="Abhinav Avatar"/>
-      <br/><br/>
-      <b>Abhinav Kumar</b><br/>
-      <i>Cybersecurity Aspirant</i>
-      <br/><br/>
-      <a href="https://linkedin.com/in/abhinav-kumar-995a5728b/">
-        <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-      <br/>
-      <a href="mailto:kabhi12nav@gmail.com">
-        <img src="https://img.shields.io/badge/GMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-    </td>
-    <td width="65%" valign="top">
-      <h3>💻 SYSTEM LOGS</h3>
-      
-```bash
-root@abhinav:~$ ./display_skills.sh
+### 🛠️ Arsenal & Tools
 
-[+] CURRENT MISSION:
-    > Understanding Attack Vectors
-    > Mastering SOC Operations
-    > Experimenting in Linux Labs
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,python,java,mysql,git,bash,html,css&perline=8" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Metasploit-333333?style=flat&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" />
+</p>
 
-[+] LOADED MODULES:
-    > Network:   Wireshark, Nmap, TCP/IP
-    > Web Sec:   Burp Suite, OWASP Top 10
-    > OS:        Kali Linux, Windows Server
-    > Code:      Python (Automation), Bash
+<br/>
 
-[+] STATUS:
-    > Open for CTF Teams: [TRUE]
-    > Learning Mode:      [ACTIVE]
-</td>
-</tr> </table>
+### 📊 GitHub Stats
 
-<div align="center"> <h3>🛠️ WEAPONRY & TOOLS</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="languages graph" />
+</p>
 
-<a href="https://www.google.com/search?q=https://skillicons.dev"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dkali,linux,python,bash,java,mysql,git,docker,wireshark%26perline%3D10" /> </a>
+---
 
+### 📬 Connect & Support
 
+<p align="center">
+  <a href="https://linkedin.com/in/abhinav-kumar-995a5728b/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kabhi12nav@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Project-Packet_Sniffer-blue%3Fstyle%3Dflat-square%26logo%3Dpython" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Project-Home_Lab_Setup-orange%3Fstyle%3Dflat-square%26logo%3Dlinux" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Project-CTF_Writeups-green%3Fstyle%3Dflat-square%26logo%3Dhackthebox" /> </div>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/YOUR_BMC_USERNAME">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</p>
 
-<div align="center"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%2520Bag.png" alt="Money Bag" width="25" height="25" />
-
-
-<a href="https://www.google.com/search?q=https://www.buymeacoffee.com/YOUR_BMC_USERNAME"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00%3Fstyle%3Dfor-the-badge%26logo%3Dbuy-me-a-coffee%26logoColor%3Dblack" /> </a> </div>
+</div>
