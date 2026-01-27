@@ -1,62 +1,64 @@
 <div align="center">
 
-# 🛡️ Abhinav Kumar
-### Cybersecurity Aspirant | Network Security | SOC
+# 🖥️ SYSTEM LOG: SECURITY_OPERATOR
+### Blue Team | Network Defense | Infrastructure Hardening
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Analyzing+Network+Traffic;Explaining+System+Vulnerabilities;Learning+Blue+Team+Operations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3572A5&center=true&vCenter=true&width=500&lines=Initializing+Defense+Protocols...;Analyzing+Network+Traffic;Hunting+System+Vulnerabilities" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<p align="center">
- 🔭 Focused on <b>SOC Operations & Network Defense</b> <br/>
- 🤝 Open to <b>CTF collaborations</b> and security research <br/>
- 🧪 Lab enthusiast constantly breaking & fixing <b>Linux VMs</b>
-</p>
+> 🛡️ **Operational Focus:** I am bridging the gap between systems administration and cybersecurity. My goal is to understand how attacks happen (Red Team) to better detect and prevent them (Blue Team).
 
----
-
-### 🛠️ Arsenal & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,python,java,mysql,git,bash,html,css&perline=8" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Metasploit-333333?style=flat&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" />
-</p>
+</div>
 
 <br/>
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="languages graph" />
+### 🛠️ The Toolkit
+
+**Security Operations**
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-202020?style=flat-square&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-0055a6?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-ff6633?style=flat-square&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-101010?style=flat-square&logo=metasploit&logoColor=white" />
 </p>
+
+**Engineering & Systems**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,bash,java,mysql,git,docker&perline=6" />
+
+</div>
+
+<br/>
 
 ---
 
-### 📬 Connect & Support
+<br/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/abhinav-kumar-995a5728b/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kabhi12nav@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/YOUR_BMC_USERNAME">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-</p>
-
+<div align="center">
+  <h3>📬 Establish Connection</h3>
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://linkedin.com/in/abhinav-kumar-995a5728b/">
+          <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" height="28" />
+        </a>
+      </td>
+      <td>
+        <a href="mailto:kabhi12nav@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=flat&logo=gmail&logoColor=white" height="28" />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.buymeacoffee.com/YOUR_BMC_USERNAME">
+          <img src="https://img.shields.io/badge/Support-Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" height="28" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
