@@ -25,7 +25,7 @@
     <td width="200" valign="top"><b>Systems & Code</b></td>
     <td valign="top">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=linux,python,bash,java,mysql,git,docker&perline=10" />
+        <img src="https://skillicons.dev/icons?i=linux,python,java,mysql,git&perline=10" />
       </a>
     </td>
  </tr>
