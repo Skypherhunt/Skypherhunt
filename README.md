@@ -1,10 +1,8 @@
-# ⚡ Terminal :: /home/abhinav/
+# ⚡ Terminal: /home/abhinav/
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3572A5&center=false&vCenter=false&width=500&lines=Blue+Team+Operator;Network+Security+Analysis;Hardening+Infrastructure" alt="Typing SVG" />
 </a>
-
-<br/>
 
 ### 📟 Status Report
 > I am a Cybersecurity Aspirant specializing in **SOC Operations** and **Network Defense**. Currently focused on bridging the gap between attacking methodologies and defensive hardening.
@@ -33,8 +31,6 @@
  </tr>
 </table>
 
-<br/>
-
 ---
 
 ### 📬 Connection Points
@@ -54,13 +50,9 @@
   </tr>
 </table>
 
-<br/>
-
 ---
 
 ### ☕ Support
 <a href="https://www.buymeacoffee.com/YOUR_BMC_USERNAME">
   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="45" />
 </a>
-
-<br/>
