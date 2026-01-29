@@ -2,7 +2,7 @@
 
 # < abhinav_kumar / >
 
-### Network Defense | Vulnerability Research | Security Operations
+### Network Security | Web Security | SOC Fundamentals
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=false&vCenter=false&width=450&lines=Initializing+Defense+Protocols...;Analyzing+Network+Vulnerability...;Deploying+Threat+Mitigation...;System+Status:+Active" alt="Typing SVG" />
@@ -12,20 +12,20 @@
 
 ---
 
-### Console Environment: `linux/soc_analyst`
+### Console Environment: `linux/security_learner`
 
 ```bash
 user@kali:~$ whoami
 Identity: Abhinav Kumar
-Role:     Blue Team Operator
+Role: Cybersecurity Learner
 
 user@kali:~$ cat core_competencies.txt
-> Traffic Analysis and Packet Inspection
-> Perimeter Defense and Infrastructure Hardening
-> Web Application Security Assessment
-> Unix/Linux System Administration
+> Basics of Networking and Traffic Flow
+> Intro to Web Application Security Concepts
+> Hands-on practice with Security Tools
+> Linux Fundamentals for Security Use
 
 user@kali:~$ ./operational_status.sh
-[+] Current Phase:  Skill Acquisition & Lab Research
-[+] Objective:      Mastering Security Operations Center (SOC) Workflows
-[+] Collaboration:  Seeking CTF Partnerships & Security Research Projects
+[+] Current Phase: Learning & Hands-on Practice
+[+] Focus: Understanding SOC Basics and Security Workflows
+[+] Goal: Build strong fundamentals and real-world skills
